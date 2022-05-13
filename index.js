@@ -1,4 +1,4 @@
 const Team = require('./lib/Team');
 
-// Function to initialize the app
+// Call function to initialize app
 new Team().initializeTeam();
