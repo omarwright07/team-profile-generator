@@ -1,11 +1,12 @@
-function writeToFile(fileName, data) {
+const fs = require('fs');
+
+function writeFile(fileName, data) {
     return new Promise((resolve, reject) => {
         fs.writeFile(fileName, data, error => {
             if (error) {
                 reject(error);
                 return;
             }
-
             resolve({
                 ok: true,
                 message: 'File created!'
@@ -21,7 +22,6 @@ const copyFile = () => {
                 reject(err);
                 return;
             }
-
             resolve({
                 ok: true,
                 message: 'File copied!'
@@ -31,4 +31,4 @@ const copyFile = () => {
     });
 };
 
-module.exports = {writeToFile, copyFile};
+module.exports = {writeFile, copyFile};
