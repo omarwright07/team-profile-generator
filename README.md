@@ -37,3 +37,4 @@ https://github.com/omarwright07/team-profile-generator
 https://drive.google.com/file/d/1UUQncDOTuv6S0oC-LFVcBxjX5oyqXxDD/view
 
 ## Example HTML Location
+https://github.com/omarwright07/team-profile-generator/blob/main/dist/index.html
