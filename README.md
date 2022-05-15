@@ -27,8 +27,13 @@ Because this application won’t be deployed, you’ll also need to provide a li
 * WHEN I decide to finish building my team
 * THEN I exit the application, and the HTML is generated
 
-## Mockup
-![Final verison mock up of the Team Generator.](./assets/images/10-object-oriented-programming-homework-demo.png)
+## Final Screenshot
+![Final verison screen shot of the Team Generator.](./assets/images/1-final-screenshot.png)
 
 ## GitHub Location
 https://github.com/omarwright07/team-profile-generator
+
+## Recording Location
+https://drive.google.com/file/d/1UUQncDOTuv6S0oC-LFVcBxjX5oyqXxDD/view
+
+## Example HTML Location
